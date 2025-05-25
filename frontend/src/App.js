@@ -18,11 +18,6 @@ import AdminUsers from "./pages/AdminUsers";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css";
 
-/**
- * 
- * @Author: Aabir Chakraborty
- * @Date: 2025-05-24
- */
 
 function App() {
   const messages = { success: [], error: [] };
